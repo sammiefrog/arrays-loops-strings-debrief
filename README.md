@@ -1,6 +1,5 @@
 # ArraysLoopsStrings
-Lesson on Java Arrays, ArrayLists, Loops, StringsCreate a Bank App in Java
-
+Lesson on Java Arrays, ArrayLists, Loops, Strings
 ## Directions to Clone and load in IntelliJ
 
 - Go to the [Repo](https://github.com/ocskier/arrays-loops-strings-debrief.git) and copy the HTTPS URL from the "Code" button
