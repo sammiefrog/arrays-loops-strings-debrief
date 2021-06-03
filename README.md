@@ -25,63 +25,63 @@ git clone URL-you-Copied-goes-here
 <br><br>
 
 ## Directions for Coding
-- Make all your instance fields private and all your classes and methods public 
-- Import the java util ArrayList class module at the top for good practice
-- Create 4 ArrayLists instance variables below the teachers one all private constant(final)
-   1. a new instance of a students ArrayList storing strings
-   2. a new instance of a math grades ArrayList storing integers
-   3. a new instance of a science grades ArrayList storing integers
-   4. a new instance of a math grades ArrayList storing integers
+-- Make all your instance fields private and all your classes and methods public 
+- [ ] Import the java util ArrayList class module at the top for good practice
+- [ ] Create 4 ArrayLists instance variables below the teachers one all private constant(final)
+   - [ ] a new instance of a students ArrayList storing strings
+   - [ ] a new instance of a math grades ArrayList storing integers
+   - [ ] a new instance of a science grades ArrayList storing integers
+   - [ ] a new instance of a math grades ArrayList storing integers
 <br>
 
-- Inside the class constructor add some students and their grades to the ArrayLists
-   1. add two students to the students ArrayList
-   2. add two corresponding values to the two students to the math grades ArrayList
-   3. add two corresponding values to the two students to the science grades ArrayList
-   4. add two corresponding values to the two students to the english grades ArrayList
+- [ ] Inside the class constructor add some students and their grades to the ArrayLists
+   - [ ] add two students to the students ArrayList
+   - [ ] add two corresponding values to the two students to the math grades ArrayList
+   - [ ] add two corresponding values to the two students to the science grades ArrayList
+   - [ ] add two corresponding values to the two students to the english grades ArrayList
 <br>
 
-- Inside the printStudents public method
-   - loop thru the students ArrayList with a For Each loop
-     - print each students name on a new line as output
+- [ ] Inside the printStudents public method
+   - [ ] loop thru the students ArrayList with a For Each loop
+     - [ ] print each students name on a new line as output
 <br>
 
-- Make a method that prints an individual students grades
-    - It will be public, not have a return value, and have one int type parameter 
-      that is a students index
+- [ ] Make a method that prints an individual students grades
+    - It will be public, not have a return value, and have one int type parameter that is a students index
     - Inside the method:
-        - Print the students name by using the index variable to index the students array
-        - Print a concatenated string of say "Math: " + and the corresponding grade
-          from that ArrayList of grades by index
-        - Do this for the next two subjects
-        - Total of four output statements
+        - [ ] Print the students name by using the index variable to index the students array
+        - [ ] Print a concatenated string of say "Math: " + and the corresponding grade from that ArrayList of grades by index
+        - [ ] Do this for the next two subjects
+          (Total of four output statements)
 <br>
 
-- Inside the main function before the first two given output statements
-  - create a new instance of MSGrades class and store in a variable
+-- Inside the main function before the first two given output statements
+  - [ ] create a new instance of MSGrades class and store in a variable
     (anything like msGrade8)
-  - look up how to print an empty new line for readability
-- After
+  - [ ] look up how to print an empty new line for readability
+<br>
+
+-- After
 ```bash
 System.out.println("Middle School Roster");
 System.out.println("====================");
 ```
-- invoke or run the printStudents method on our class instance
-- Print another empty line if desired for readability
-- Use a for loop to loop thru the given teachers array on the class instance
-- inside the loop
-  - create a new variable that stores the result of "Teacher: " +
-    teachers name from the array using the counter variable
-  - Print the new variable as output
-- After
+- [ ] invoke or run the printStudents method on our class instance
+- [ ] Print another empty line if desired for readability
+- [ ] Use a for loop to loop thru the given teachers array on the class instance
+  - inside the loop
+    - [ ] create a new variable that stores the result of "Teacher: " + teachers name from the array using the counter variable
+    - [ ] Print the new variable as output
+<br>
+
+-- After
 ```bash
 System.out.println("\nStudent Grades:\n");
 ```
-- Use a for loop to loop thru students ArrayList on the class instance
-- inside the loop
-  - pass the counter var as an index to the printStudentGrades method
-    to print each students info
-  - Print a new line if you want it to look presentable
+- [ ] Use a for loop to loop thru students ArrayList on the class instance
+  - inside the loop
+    - [ ] pass the counter var as an index to the printStudentGrades method to print each students info
+    - [ ] Print a new line if you want it to look presentable
 
 <br>
 
