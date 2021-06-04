@@ -6,7 +6,7 @@ Lesson on Java Arrays, ArrayLists, Loops, Strings
 - Copy the HTTPS URL from the "Code" button on your GH
 - Open your terminal (Git bash) and navigate to the appropriate location where you wish to save the folder to and run 
 ```bash 
-git clone URL-you-Copied-goes-here
+git clone URL-you-copied-goes-here
 ```
 
 - Open IntelliJ and click on new project
