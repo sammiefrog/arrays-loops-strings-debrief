@@ -25,7 +25,7 @@ git clone URL-you-copied-goes-here
 <br><br>
 
 ## Directions for Coding
--- Make all your instance fields private and all your classes and methods public 
+-- Make all your instance fields / variables private and all your classes and methods public 
 - [ ] Import the java util ArrayList class module at the top for good practice
 - [ ] Create 4 ArrayLists instance variables below the teachers one all private constant(final)
    - [ ] a new instance of a students ArrayList storing strings
