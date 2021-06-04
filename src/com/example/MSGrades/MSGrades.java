@@ -1,29 +1,38 @@
 package com.example.MSGrades;
 // import the java util ArrayList class module
 
+import java.util.ArrayList;
+
 public class MSGrades {
 
     private final String[] teachers = {"Ms. Smith", "Mr. Johnson", "Mrs. Doe"};
     
     // Create 4 ArrayLists below all private constant properties (final)
-
         // 1. a new instance of a students ArrayList storing strings
-
+        private final ArrayList<String> students = new ArrayList<>();
         // 2. a new instance of a math grades ArrayList storing integers
+        private final ArrayList<Integer> mathGrades = new ArrayList<>();
         // 3. a new instance of a science grades ArrayList storing integers
+        private final ArrayList<Integer> scienceGrades = new ArrayList<>();
         // 4. a new instance of a math grades ArrayList storing integers
+        private final ArrayList<Integer> englishGrades = new ArrayList<>();
 
 
     public MSGrades(){
         // Add some students and their grades to the ArrayLists
 
             // add two students to the students ArrayList
-
+            students.add("Angela");
+            students.add("Billy");
             // add two corresponding values for the two students to the math grades ArrayList
-
+            mathGrades.add(100);
+            mathGrades.add(93);
             // add two corresponding values for the two students to the science grades ArrayList
-
+            scienceGrades.add(87);
+            scienceGrades.add(75);
             // add two corresponding values for the two students to the english grades ArrayList
+        englishGrades.add(85);
+        englishGrades.add(92);
     }
 
     public void printStudents(){
