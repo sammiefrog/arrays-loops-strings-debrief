@@ -89,7 +89,7 @@ System.out.println("\nStudent Grades:\n");
 - Push your changes up to your repository. From your git bash terminal, enter the following commands:
 ```bash
 git add .
-git commit -m “Adds solutions to activity”
+git commit -m "Adds solutions to activity"
 git push -u origin main
 ```
 - Go to your GitHub repository. You should see your changes.
