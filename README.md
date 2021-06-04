@@ -36,9 +36,9 @@ git clone URL-you-Copied-goes-here
 
 - [ ] Inside the class constructor add some students and their grades to the ArrayLists
    - [ ] add two students to the students ArrayList
-   - [ ] add two corresponding values to the two students to the math grades ArrayList
-   - [ ] add two corresponding values to the two students to the science grades ArrayList
-   - [ ] add two corresponding values to the two students to the english grades ArrayList
+   - [ ] add two corresponding values for the two students to the math grades ArrayList
+   - [ ] add two corresponding values for the two students to the science grades ArrayList
+   - [ ] add two corresponding values for the two students to the english grades ArrayList
 <br>
 
 - [ ] Inside the printStudents public method

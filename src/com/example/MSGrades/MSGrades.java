@@ -19,11 +19,11 @@ public class MSGrades {
 
             // add two students to the students ArrayList
 
-            // add two corresponding values to the two students to the math grades ArrayList
+            // add two corresponding values for the two students to the math grades ArrayList
 
-            // add two corresponding values to the two students to the science grades ArrayList
+            // add two corresponding values for the two students to the science grades ArrayList
 
-            // add two corresponding values to the two students to the english grades ArrayList
+            // add two corresponding values for the two students to the english grades ArrayList
     }
 
     public void printStudents(){
